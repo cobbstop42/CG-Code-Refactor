@@ -8,7 +8,10 @@ We spend a significant portion of our lives on line.  It is where we order necce
 ## How accessibility was improved
 Improved accessibility was achieved by replacing regular HTML tags with Semantic HTML.  Semantic HTML improves website accessibility for individuals who use assistive technology, such as screen readers, by provding a more literal meaning of the information on the webpage and web applications.  The changes that were made are notated by the comments on both the HTML and CSS  pages.  
 
+***
 The published page is located at http://cobbstop42.github.io/CG-Code-Refactor
+***
+
 
 ![](assets/images/Horiseon webpage.png)
 
