@@ -11,7 +11,7 @@ Improved accessibility was achieved by replacing regular HTML tags with Semantic
 ***
 The published page is located at http://cobbstop42.github.io/CG-Code-Refactor
 
-![Hoariseon web page](assets/images/horiseon screenshot.png)
+![Horiseon web page](assets/images/Horiseon Webpage.png)
 
 
 
