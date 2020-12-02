@@ -1,6 +1,6 @@
 # CG-Code-Refactor-Repository
 
-This repository contains the Horiseon improved accessibility project.  The code was submitted by Horiseon for the purpose of improbing the overall accessibility of the website.
+This repository contains the Horiseon improved accessibility project.  The code was submitted by Horiseon for the purpose of improbing the overall accessibility of the website
 
 ## Motivation for this project
 We spend a significant portion of our lives on line.  It is where we order neccessities, get information, and socialize with friends.  Approximatley 20% of the population have disabilities which make accessing the internet difficult.  The focus of this project was to update the code of the website to meet current accessibility standards in an attempt to reach those individuals with certain physical challenges.
